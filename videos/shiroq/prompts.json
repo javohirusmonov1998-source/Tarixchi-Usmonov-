@@ -1,0 +1,203 @@
+{
+  "project": "SHIROQ — Vatan uchun jon fido qilgan qahramon",
+  "aspect_ratio": "9:16",
+  "resolution": "2160x3840",
+  "fps": 24,
+  "duration_s": 65,
+  "characters": {
+    "SHIROQ": "SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE",
+    "DARIUS": "DARIUS I, Achaemenid Persian king about 40, long squared curled black beard in Persepolis relief style, tall golden crenellated crown, flowing purple-and-crimson pleated court robe, gold lion-head armlets, gold sceptre",
+    "ARMY": "Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners",
+    "SAKA": "Saka nomads with tall pointed felt caps, felt tunics, trousers, steppe horses, felt yurts"
+  },
+  "style": "Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps",
+  "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces",
+  "shots": [
+    {
+      "id": "1.1",
+      "time": "0:00-0:02",
+      "camera": "aerial slow forward",
+      "characters": [
+        "ARMY"
+      ],
+      "prompt": "Epic aerial shot gliding over endless golden Central Asian dunes, wind lifting sand, dark stormy sky, a vast Persian army column tiny on the horizon. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "1.2",
+      "time": "0:02-0:04",
+      "camera": "low angle dolly-in",
+      "characters": [
+        "SHIROQ"
+      ],
+      "prompt": "Shiroq stands alone on a dune leaning on his staff, wind whipping his hair and kaftan, sun piercing dark clouds, heroic silhouette. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "1.3",
+      "time": "0:04-0:08",
+      "camera": "extreme close-up push-in, 85mm, LIP-SYNC SHIROQ_01",
+      "characters": [
+        "SHIROQ"
+      ],
+      "prompt": "Shiroq looks directly into camera with fierce determination and speaks slowly and firmly, sand flying past, golden rim light. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "2.1",
+      "time": "0:08-0:11",
+      "camera": "aerial crane down",
+      "characters": [
+        "ARMY"
+      ],
+      "prompt": "Huge Achaemenid royal war camp at golden hour, striped pavilions, central crimson-gold royal tent with falcon banners, thousands of soldiers, campfire smoke. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "2.2",
+      "time": "0:11-0:14",
+      "camera": "medium slow orbit",
+      "characters": [
+        "DARIUS",
+        "ARMY"
+      ],
+      "prompt": "Inside a crimson-gold pavilion lit by bronze oil lamps, Darius I on a carved lion-paw throne, generals and Immortal guards around him. DARIUS I, Achaemenid Persian king about 40, long squared curled black beard in Persepolis relief style, tall golden crenellated crown, flowing purple-and-crimson pleated court robe, gold lion-head armlets, gold sceptre. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "2.3",
+      "time": "0:14-0:18",
+      "camera": "over-the-shoulder",
+      "characters": [
+        "SHIROQ",
+        "DARIUS"
+      ],
+      "prompt": "Shiroq escorted in by two guards, kneels on a carpet and draws a winding secret path in sand with his staff, calm convincing face. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. DARIUS I, Achaemenid Persian king about 40, long squared curled black beard in Persepolis relief style, tall golden crenellated crown, flowing purple-and-crimson pleated court robe, gold lion-head armlets, gold sceptre. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "2.4",
+      "time": "0:18-0:22",
+      "camera": "close-up",
+      "characters": [
+        "DARIUS"
+      ],
+      "prompt": "Darius I narrows his eyes in suspicion, then a slow confident smile, nods once, lamp light flickering on his crown. DARIUS I, Achaemenid Persian king about 40, long squared curled black beard in Persepolis relief style, tall golden crenellated crown, flowing purple-and-crimson pleated court robe, gold lion-head armlets, gold sceptre. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "3.1",
+      "time": "0:22-0:26",
+      "camera": "top-down aerial tilt up",
+      "characters": [
+        "SHIROQ",
+        "ARMY"
+      ],
+      "prompt": "Shiroq walks at the front with his staff, an immense army column snaking deep into an endless desert, long shadows, dust trail. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "3.2",
+      "time": "0:26-0:29",
+      "camera": "timelapse",
+      "characters": [],
+      "prompt": "Merciless white-gold sun crossing a burning sky over dunes, heat haze, days and nights passing quickly. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "3.3",
+      "time": "0:29-0:32",
+      "camera": "slow motion extreme close-up",
+      "characters": [
+        "ARMY"
+      ],
+      "prompt": "A Persian soldier squeezes an empty leather waterskin, last drop on cracked lips, waterskin drops into sand. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "3.4",
+      "time": "0:32-0:35",
+      "camera": "slow motion side shot",
+      "characters": [
+        "ARMY"
+      ],
+      "prompt": "Exhausted cavalry horses stumble and kneel in deep sand, soldiers stagger forward leaning on spears, no blood. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "3.5",
+      "time": "0:35-0:40",
+      "camera": "wide aerial pull-back, overlay text '7 KUN'",
+      "characters": [
+        "SHIROQ",
+        "ARMY"
+      ],
+      "prompt": "Weakened army lost among identical dunes, mirage of water on horizon, vultures circling, Shiroq still walking calmly at the front. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "4.1",
+      "time": "0:40-0:43",
+      "camera": "whip-pan to close-up",
+      "characters": [
+        "ARMY"
+      ],
+      "prompt": "A Persian general turns, whip-pan across empty dunes in every direction, close-up of horror and realisation on his face. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "4.2",
+      "time": "0:43-0:47",
+      "camera": "low angle 360 orbit",
+      "characters": [
+        "SHIROQ",
+        "ARMY"
+      ],
+      "prompt": "Shiroq stands calm in the centre as angry exhausted soldiers surround him, spears pointed at him, sun blazing behind. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "4.3",
+      "time": "0:47-0:50",
+      "camera": "extreme close-up slow motion",
+      "characters": [
+        "SHIROQ"
+      ],
+      "prompt": "Shiroq shows no fear, calm proud faint smile, lifts eyes to the sky, wind in his hair, golden backlight. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "4.4",
+      "time": "0:50-0:53",
+      "camera": "symbolic cut, violence off-screen",
+      "characters": [
+        "ARMY"
+      ],
+      "prompt": "Silhouettes of spears raised against the sun, cut to a wooden shepherd's staff falling in slow motion onto sand, wind covers it. No blood, no impact shown. Achaemenid Persian army: long patterned tunics, soft felt tiaras and fluted hats, tall spears with pomegranate butts, rectangular wicker shields, recurve bows, cavalry, camels with leather waterskins, golden falcon banners. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    },
+    {
+      "id": "5.1",
+      "time": "0:53-0:57",
+      "camera": "wide slow crane up",
+      "characters": [
+        "SHIROQ",
+        "SAKA"
+      ],
+      "prompt": "Majestic desert sunset, sky gold and crimson, the huge translucent face of Shiroq appears in the clouds like a guardian spirit over Saka yurts and horses. SHIROQ, a Saka shepherd man, 42 years old, Central Asian steppe features, deeply sun-darkened weathered skin, stern intense dark brown eyes, long straight black hair past the shoulders, full thick black beard with a few grey strands, high cheekbones, simple undyed brown wool kaftan-tunic belted with leather, dark felt trousers, soft leather boots, plain sheepskin vest, wooden shepherd's staff, small bronze deer-motif belt buckle, 6th century BCE. Saka nomads with tall pointed felt caps, felt tunics, trousers, steppe horses, felt yurts. Hollywood historical epic, ultra realistic, 4K, vertical 9:16, ARRI Alexa 65 anamorphic, sand beige, burnished gold and dark stormy sky palette, volumetric dust, film grain, natural light, 24 fps.",
+      "negative_prompt": "modern buildings, roads, cars, plastic, zippers, sunglasses, watches, wires, airplanes, contrails, text, watermark, logo, fantasy armor, horned helmets, medieval plate armor, Roman armor, turbans, gunpowder, blood, gore, extra fingers, deformed faces"
+    }
+  ],
+  "end_cards": [
+    {
+      "time": "0:57-1:00",
+      "text": "SHIROQ — VATAN OZODLIGI UCHUN JON FIDO QILGAN QAHRAMON",
+      "font": "Cinzel Bold, gold on black"
+    },
+    {
+      "time": "1:00-1:05",
+      "text": "@TARIXCHI_USMONOV — Obuna bo‘ling!",
+      "voice": "DIKTOR_03"
+    }
+  ]
+}
